@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ExCentenas</string>
+    <string name="s_exemplo">Nº entre 100 e 999</string>
+    <string name="s_calcular">Calcular</string>
+    <string name="s_mensagem_erro">O valor deve ser entre 100 e 999</string>
+    <string name="s_mensagem_centena">Centena:</string>
+    <string name="s_mensagem_dezena">Dezena:</string>
+    <string name="s_mensagem_unidade">Unidade:</string>
+</resources>
